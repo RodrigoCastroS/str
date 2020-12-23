@@ -25,10 +25,6 @@ h2{
     text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
 }
 
-h2 span::before{
-    animation: animate infinite 4s;
-
-}
 
 span:before{
     content: '';
